@@ -4,3 +4,4 @@ https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u
 https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/m3u/k9v6.m3u
 https://php.946985.filegear-sg.me/jackTV.m3u
 https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
+https://raw.githubusercontent.com//jia070310/lemonTV/main/IPTV-4K.m3u
