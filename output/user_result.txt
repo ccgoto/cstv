@@ -1,16 +1,16 @@
 🕘️更新时间,#genre#
-2026-04-05 23:53:45,http://111.56.90.5/000000000000/6000000001000029752/1.m3u8$订阅源
+2026-04-06 00:59:00,http://111.56.90.5/000000000000/6000000001000029752/1.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://111.56.90.5/000000000000/6000000001000029752/1.m3u8$订阅源
 CCTV-1,http://111.56.90.5/000000000000/6000000001000029752/1.m3u8$订阅源
+CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd$订阅源
+CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd$订阅源
 CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$订阅源
 CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$订阅源
 CCTV-2,http://111.56.90.5/000000000000/1000000001000023315/1.m3u8$订阅源
-CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd$订阅源
-CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd$订阅源
-CCTV-3,http://111.56.90.5/000000000000/1000000005000265003/1.m3u8$订阅源
 CCTV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd$订阅源
+CCTV-3,http://111.56.90.5/000000000000/1000000005000265003/1.m3u8$订阅源
 CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8$订阅源
 CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8$订阅源
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009$订阅源
@@ -26,12 +26,12 @@ CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=11$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=11$订阅源
 CCTV-6,http://111.56.90.5/000000000000/1000000005000265006/1.m3u8$订阅源
 CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8$订阅源
+CCTV-7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd$订阅源
 CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub$订阅源
 CCTV-7,http://111.56.90.5/000000000000/1000000001000024341/1.m3u8$订阅源
-CCTV-7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd$订阅源
 CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8$订阅源
-CCTV-8,http://111.56.90.5/000000000000/1000000001000003736/1.m3u8$订阅源
 CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd$订阅源
+CCTV-8,http://111.56.90.5/000000000000/1000000001000003736/1.m3u8$订阅源
 CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8$订阅源
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub$订阅源
 CCTV-9,http://111.56.90.5/000000000000/1000000005000265009/1.m3u8$订阅源
@@ -39,9 +39,9 @@ CCTV-10,http://111.56.90.5/000000000000/1000000005000265010/1.m3u8$订阅源
 CCTV-11,http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub$订阅源
 CCTV-11,http://111.56.90.5/000000000000/1000000002000019789/1.m3u8$订阅源
 CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8$订阅源
+CCTV-12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd$订阅源
 CCTV-12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub$订阅源
 CCTV-12,http://111.56.90.5/000000000000/1000000005000265012/1.m3u8$订阅源
-CCTV-12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd$订阅源
 CCTV-12,http://23.237.228.134/live3/CCTV12.m3u8$订阅源
 CCTV-12,http://23.237.228.134/live3/CCTV12.m3u8$订阅源
 CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8$订阅源
@@ -82,6 +82,8 @@ CCTV-17,http://111.56.90.5/000000000000/1000000005000265015/1.m3u8$订阅源
 海南卫视,http://111.56.90.5/000000000000/4676690988340017823/1.m3u8$订阅源
 河北卫视,http://111.56.90.5/000000000000/7314569012827301115/1.m3u8$订阅源
 河南卫视,http://111.56.90.5/000000000000/1000000002000027731/1.m3u8$订阅源
+河南卫视,http://14.29.45.69/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=95e758d7dd7fd2f953de616b93c4e8c8&wsTime=1775418588&wsSession=a8ec8e3daeaebf07e3380585-177540520173278&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsBindIP=2&wsserid=1168265745128989516$订阅源
+河南卫视,http://14.29.45.69/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=95e758d7dd7fd2f953de616b93c4e8c8&wsTime=1775418588&wsSession=a8ec8e3daeaebf07e3380585-177540520173278&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsBindIP=2&wsserid=1168265745128989516$订阅源
 吉林卫视,http://111.56.90.5/000000000000/5000000011000031117/1.m3u8$订阅源
 江苏卫视,http://111.56.90.5/000000000000/1000000001000001828/1.m3u8$订阅源
 江苏卫视,http://23.237.228.134/live3/jiangsu.m3u8$订阅源
@@ -89,10 +91,9 @@ CCTV-17,http://111.56.90.5/000000000000/1000000005000265015/1.m3u8$订阅源
 辽宁卫视,http://111.56.90.5/000000000000/1000000002000024033/1.m3u8$订阅源
 内蒙古卫视,http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub$订阅源
 内蒙古卫视,http://111.56.90.5/000000000000/8960557517876415203/1.m3u8$订阅源
-内蒙古卫视,http://153.0.171.163:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-内蒙古卫视,http://153.0.171.163:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-宁夏卫视,http://111.56.90.5/000000000000/1000000002000031451/1.m3u8$订阅源
 宁夏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss$订阅源
+宁夏卫视,http://111.56.90.5/000000000000/1000000002000031451/1.m3u8$订阅源
+宁夏卫视,http://153.0.171.163:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 宁夏卫视,http://153.0.171.163:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 青海卫视,http://107.150.60.122/live/qhws.m3u8$订阅源
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub$订阅源
@@ -104,8 +105,8 @@ CCTV-17,http://111.56.90.5/000000000000/1000000005000265015/1.m3u8$订阅源
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8$订阅源
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8$订阅源
 山西卫视,http://111.56.90.5/000000000000/5000000006000040023/1.m3u8$订阅源
-陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8$订阅源
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8$订阅源
+陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8$订阅源
 陕西卫视,http://111.56.90.5/000000000000/1000000002000007495/1.m3u8$订阅源
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8$订阅源
 四川卫视,http://111.56.90.5/000000000000/1000000002000016825/1.m3u8$订阅源
@@ -120,8 +121,8 @@ CCTV-17,http://111.56.90.5/000000000000/1000000005000265015/1.m3u8$订阅源
 天津卫视,http://153.0.171.163:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8$订阅源
 西藏卫视,http://111.56.90.5/000000000000/6603041244077933770/1.m3u8$订阅源
-新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8$订阅源
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub$订阅源
+新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8$订阅源
 新疆卫视,http://111.56.90.5/000000000000/5802765535081445534/1.m3u8$订阅源
 云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=3$订阅源
 云南卫视,http://111.56.90.5/000000000000/1000000002000024694/1.m3u8$订阅源
