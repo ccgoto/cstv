@@ -1,11 +1,13 @@
 🕘️更新时间,#genre#
-2026-04-17 07:07:19,http://pull-hls-f11.douyincdn.com/media/stream-695587197212689068.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776419893&major_anchor_level=common&sign=1fb268dd41931b52a56ffaa63eb9767b&t_id=037-20260410175813EE86C163D7BEF6CCF873-Pdnf7H$订阅源
+2026-04-17 08:02:13,http://pull-hls-f11.douyincdn.com/media/stream-695587197212689068.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776419893&major_anchor_level=common&sign=1fb268dd41931b52a56ffaa63eb9767b&t_id=037-20260410175813EE86C163D7BEF6CCF873-Pdnf7H$订阅源
 
 📺央视频道,#genre#
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695587197212689068.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776419893&major_anchor_level=common&sign=1fb268dd41931b52a56ffaa63eb9767b&t_id=037-20260410175813EE86C163D7BEF6CCF873-Pdnf7H$订阅源
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695587197212689068.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776419893&major_anchor_level=common&sign=1fb268dd41931b52a56ffaa63eb9767b&t_id=037-20260410175813EE86C163D7BEF6CCF873-Pdnf7H$订阅源
 
 📡卫视频道,#genre#
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1776385237&k=8d711a0868891929c64b09fa8b2cc2fc$订阅源
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1776385237&k=8d711a0868891929c64b09fa8b2cc2fc$订阅源
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f4481eec41ed2dc9fe48d62ee570f30a&wsTime=1776393654$订阅源
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f4481eec41ed2dc9fe48d62ee570f30a&wsTime=1776393654$订阅源
 
