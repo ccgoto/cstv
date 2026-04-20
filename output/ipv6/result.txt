@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-21 04:33:20,https://v.iill.top/api/CCTV14/index.m3u8$订阅源
+2026-04-21 05:36:06,https://v.iill.top/api/CCTV14/index.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-14,https://v.iill.top/api/CCTV14/index.m3u8$订阅源
