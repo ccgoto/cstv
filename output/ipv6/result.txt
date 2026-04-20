@@ -1,13 +1,13 @@
 🕘️更新时间,#genre#
-2026-04-21 06:32:12,https://v.iill.top/api/CCTV14/index.m3u8$订阅源
+2026-04-21 07:31:20,https://v.iill.top/api/CCTV14/index.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-14,https://v.iill.top/api/CCTV14/index.m3u8$订阅源
 CCTV-14,https://v.iill.top/api/CCTV14/index.m3u8$订阅源
 
 📡卫视频道,#genre#
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1776726374&k=f60794e06747dd257531c4cae8564be4$订阅源
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1776726374&k=f60794e06747dd257531c4cae8564be4$订阅源
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=458824fc0ffbedffb9295447cb5e7a8b&wsTime=1776736789$订阅源
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=458824fc0ffbedffb9295447cb5e7a8b&wsTime=1776736789$订阅源
 
 🎬电影频道,#genre#
 
