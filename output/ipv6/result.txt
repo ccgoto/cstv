@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2026-05-01 13:30:56,https://gd202.tv1288.xyz/tsfile/live/1023_1.m3u8$订阅源
+2026-05-01 15:55:51,https://gd202.tv1288.xyz/tsfile/live/1027_1.m3u8$订阅源
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
-贵州卫视,https://gd202.tv1288.xyz/tsfile/live/1023_1.m3u8$订阅源
-贵州卫视,https://gd202.tv1288.xyz/tsfile/live/1023_1.m3u8$订阅源
+海南卫视,https://gd202.tv1288.xyz/tsfile/live/1027_1.m3u8$订阅源
 海南卫视,https://gd202.tv1288.xyz/tsfile/live/1027_1.m3u8$订阅源
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e911968c8cc9c46ad4e01a1ebe038167&wsTime=1777622474$订阅源
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e911968c8cc9c46ad4e01a1ebe038167&wsTime=1777622474$订阅源
