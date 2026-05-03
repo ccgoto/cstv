@@ -1,13 +1,11 @@
 🕘️更新时间,#genre#
-2026-05-04 03:31:41,http://pull-hls-f11.douyincdn.com/media/stream-695715623379403436.m3u8?expire=1778193009&sign=45fe2b90306250f83c8803f9a636a49d&arch_hrchy=w1&exp_hrchy=w1&neq=1&major_anchor_level=common&t_id=037-20260501063009D573D93A189AC1017167-huDcbM$订阅源
+2026-05-04 04:29:18,http://pull-hls-f11.douyincdn.com/media/stream-695715623379403436.m3u8?expire=1778193009&sign=45fe2b90306250f83c8803f9a636a49d&arch_hrchy=w1&exp_hrchy=w1&neq=1&major_anchor_level=common&t_id=037-20260501063009D573D93A189AC1017167-huDcbM$订阅源
 
 📺央视频道,#genre#
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695715623379403436.m3u8?expire=1778193009&sign=45fe2b90306250f83c8803f9a636a49d&arch_hrchy=w1&exp_hrchy=w1&neq=1&major_anchor_level=common&t_id=037-20260501063009D573D93A189AC1017167-huDcbM$订阅源
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695715623379403436.m3u8?expire=1778193009&sign=45fe2b90306250f83c8803f9a636a49d&arch_hrchy=w1&exp_hrchy=w1&neq=1&major_anchor_level=common&t_id=037-20260501063009D573D93A189AC1017167-huDcbM$订阅源
 
 📡卫视频道,#genre#
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1777838836&k=3e545c6fbbac3241d42134f9d853a793$订阅源
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1777838836&k=3e545c6fbbac3241d42134f9d853a793$订阅源
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7d2c908e1ce638e8ee90e4c736c32a50&wsTime=1777845651$订阅源
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7d2c908e1ce638e8ee90e4c736c32a50&wsTime=1777845651$订阅源
 
@@ -16,3 +14,8 @@ CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695715623379403436.m3u8?e
 🌊港·澳·台,#genre#
 明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
 明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn$订阅源
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn$订阅源
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$订阅源
+凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
