@@ -1,11 +1,9 @@
 🕘️更新时间,#genre#
-2026-05-12 18:45:24,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f21935c86ef6f15f005e1f3b4c6c38a6&wsTime=1778587183$订阅源
+2026-05-12 20:32:23,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f21935c86ef6f15f005e1f3b4c6c38a6&wsTime=1778587183$订阅源
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f21935c86ef6f15f005e1f3b4c6c38a6&wsTime=1778587183$订阅源
 
 🎬电影频道,#genre#
 
