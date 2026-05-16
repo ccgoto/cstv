@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ccgoto/cstv/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-16 07:42:16
-https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1778890025&k=30a2eea0e0a4ec10de36ac9820b792b4$订阅源
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-16 09:27:31
+https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1778897247&k=27854cb3d429827dccecab5797ea5612$订阅源
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
-https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1778890025&k=30a2eea0e0a4ec10de36ac9820b792b4$订阅源
+https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1778897247&k=27854cb3d429827dccecab5797ea5612$订阅源
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
-https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1778890025&k=30a2eea0e0a4ec10de36ac9820b792b4$订阅源
+https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1778897247&k=27854cb3d429827dccecab5797ea5612$订阅源
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ed717c47a29801d6a15a8af5b401b243&wsTime=1778896763$订阅源
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
