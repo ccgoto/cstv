@@ -1,19 +1,21 @@
 🕘️更新时间,#genre#
-2026-05-24 01:48:52,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=96b93f58ebc5ed5e41ea45eea3005f5b&wsTime=1779562500$订阅源
+2026-05-24 02:49:31,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1779562852&k=1dae2329769fd3366ab6820e678a340b$订阅源
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1779562852&k=1dae2329769fd3366ab6820e678a340b$订阅源
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1779562852&k=1dae2329769fd3366ab6820e678a340b$订阅源
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=96b93f58ebc5ed5e41ea45eea3005f5b&wsTime=1779562500$订阅源
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=96b93f58ebc5ed5e41ea45eea3005f5b&wsTime=1779562500$订阅源
 
 🎬电影频道,#genre#
 
 🌊港·澳·台,#genre#
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn$订阅源
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn$订阅源
+明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
+明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$订阅源
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
