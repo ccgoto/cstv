@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-05-24 20:15:22,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=3213ed568a377f5ff96da62aae76a4c5&wsTime=1779631140$订阅源
+2026-05-24 23:39:41,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=3c2ca4e9a2cfdd0e546fa44106a139f4&wsTime=1779647608$订阅源
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=3213ed568a377f5ff96da62aae76a4c5&wsTime=1779631140$订阅源
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=3213ed568a377f5ff96da62aae76a4c5&wsTime=1779631140$订阅源
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=3c2ca4e9a2cfdd0e546fa44106a139f4&wsTime=1779647608$订阅源
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=3c2ca4e9a2cfdd0e546fa44106a139f4&wsTime=1779647608$订阅源
 
 🎬电影频道,#genre#
 
