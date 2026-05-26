@@ -1,12 +1,16 @@
 🕘️更新时间,#genre#
-2026-05-26 16:26:22,https://xykt-fix.github.io/play/a02e/index.m3u8$订阅源
+2026-05-27 00:14:29,https://xykt-fix.github.io/play/a02e/index.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8$订阅源
 CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8$订阅源
 
 📡卫视频道,#genre#
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e27d0f9cd934806578977887ee0d5be8&wsTime=1779825601$订阅源
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e27d0f9cd934806578977887ee0d5be8&wsTime=1779825601$订阅源
 
 🎬电影频道,#genre#
 
 🌊港·澳·台,#genre#
+明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
+明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
