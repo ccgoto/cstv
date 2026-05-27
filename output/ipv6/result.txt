@@ -1,14 +1,14 @@
 🕘️更新时间,#genre#
-2026-05-27 22:16:06,https://xykt-fix.github.io/play/a02e/index.m3u8$订阅源
+2026-05-28 01:37:51,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1779907738&k=298f211973017a11981ce6f6b44277a2$订阅源
 
 📺央视频道,#genre#
-CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8$订阅源
-CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8$订阅源
 
 📡卫视频道,#genre#
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1779907738&k=298f211973017a11981ce6f6b44277a2$订阅源
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1779907738&k=298f211973017a11981ce6f6b44277a2$订阅源
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=6344884d86797118ccb5ff1759095536&wsTime=1779912001$订阅源
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=6344884d86797118ccb5ff1759095536&wsTime=1779912001$订阅源
 
 🎬电影频道,#genre#
 
 🌊港·澳·台,#genre#
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
