@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-30 15:34:58,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=397f595c56a98492fd264d99ef99caa6&wsTime=1780135072$订阅源
+2026-05-30 17:47:33,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=397f595c56a98492fd264d99ef99caa6&wsTime=1780135072$订阅源
 
 📺央视频道,#genre#
 
@@ -10,5 +10,3 @@
 🎬电影频道,#genre#
 
 🌊港·澳·台,#genre#
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
