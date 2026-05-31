@@ -1,16 +1,12 @@
 🕘️更新时间,#genre#
-2026-06-01 06:45:22,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1780270243&k=5755a4e6f8ff0b588366e1f5270e0e32$订阅源
+2026-06-01 07:52:24,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=28e43cd6187bf9c36cd49f75a1d752f9&wsTime=1780271881$订阅源
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1780270243&k=5755a4e6f8ff0b588366e1f5270e0e32$订阅源
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1780270243&k=5755a4e6f8ff0b588366e1f5270e0e32$订阅源
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=28e43cd6187bf9c36cd49f75a1d752f9&wsTime=1780271881$订阅源
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=28e43cd6187bf9c36cd49f75a1d752f9&wsTime=1780271881$订阅源
 
 🎬电影频道,#genre#
 
 🌊港·澳·台,#genre#
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
