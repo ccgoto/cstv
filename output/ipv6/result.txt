@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-05-31 09:58:19,http://a.xiongnas.top:8888/rtp/239.3.1.29:8288$订阅源
+2026-05-31 14:38:39,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=75a1b69263d50cb40f9ff24546e9e229&wsTime=1780221484$订阅源
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
-四川卫视,http://a.xiongnas.top:8888/rtp/239.3.1.29:8288$订阅源
-四川卫视,http://a.xiongnas.top:8888/rtp/239.3.1.29:8288$订阅源
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=75a1b69263d50cb40f9ff24546e9e229&wsTime=1780221484$订阅源
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=75a1b69263d50cb40f9ff24546e9e229&wsTime=1780221484$订阅源
 
 🎬电影频道,#genre#
 
