@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-06-12 07:59:34,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f35cdff2dbdd1a89111ab3b444dd448d&wsTime=1781229905$订阅源
+2026-06-12 13:11:36,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1781241527&k=e16eab977d0b7d1da8cbafaca46653c7$订阅源
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f35cdff2dbdd1a89111ab3b444dd448d&wsTime=1781229905$订阅源
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f35cdff2dbdd1a89111ab3b444dd448d&wsTime=1781229905$订阅源
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1781241527&k=e16eab977d0b7d1da8cbafaca46653c7$订阅源
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1781241527&k=e16eab977d0b7d1da8cbafaca46653c7$订阅源
 
 🎬电影频道,#genre#
 
