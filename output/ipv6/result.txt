@@ -1,12 +1,16 @@
 🕘️更新时间,#genre#
-2026-06-13 19:45:19,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=0b23b113c584f306f07ee88fb4a59ae9&time=6a2d1e11$订阅源
+2026-06-13 21:16:10,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1781359762&k=f1b7d87967b1bd740697fe9d53a7fcfe$订阅源
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
-西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=0b23b113c584f306f07ee88fb4a59ae9&time=6a2d1e11$订阅源
-西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=0b23b113c584f306f07ee88fb4a59ae9&time=6a2d1e11$订阅源
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1781359762&k=f1b7d87967b1bd740697fe9d53a7fcfe$订阅源
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1781359762&k=f1b7d87967b1bd740697fe9d53a7fcfe$订阅源
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ef44ae52da041def923772450d4e23a9&wsTime=1781366340$订阅源
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ef44ae52da041def923772450d4e23a9&wsTime=1781366340$订阅源
 
 🎬电影频道,#genre#
 
 🌊港·澳·台,#genre#
+明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
+明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
