@@ -1,14 +1,14 @@
 🕘️更新时间,#genre#
-2026-06-16 05:29:24,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=d3516d796b4064583d1935d0f5331521&wsTime=1781560849$订阅源
+2026-06-16 07:27:34,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=42c53552e25313b3a9cf7eb84485b465&time=6a30695b$订阅源
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=d3516d796b4064583d1935d0f5331521&wsTime=1781560849$订阅源
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=d3516d796b4064583d1935d0f5331521&wsTime=1781560849$订阅源
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=42c53552e25313b3a9cf7eb84485b465&time=6a30695b$订阅源
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=42c53552e25313b3a9cf7eb84485b465&time=6a30695b$订阅源
 
 🎬电影频道,#genre#
 
 🌊港·澳·台,#genre#
+明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
+明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
