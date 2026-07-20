@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-20 07:16:25,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=0ea6470f8e997d5777816cf3f2f763d3&wsTime=1784512751$订阅源
+2026-07-20 08:17:28,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=0ea6470f8e997d5777816cf3f2f763d3&wsTime=1784512751$订阅源
 
 📺央视频道,#genre#
 
