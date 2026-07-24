@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-24 15:23:29,https://live.chinacert.cftest5.cn/cnmg/live/624878271$订阅源
+2026-07-24 18:03:44,https://live.chinacert.cftest5.cn/cnmg/live/624878271$订阅源
 
 📺央视频道,#genre#
 CCTV-3,https://live.chinacert.cftest5.cn/cnmg/live/624878271$订阅源
@@ -17,8 +17,6 @@ CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223$订阅源
 CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256$订阅源
 
 📡卫视频道,#genre#
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=5e338f606fae5bb8ca89b7675ae89e04&wsTime=1784887150$订阅源
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=5e338f606fae5bb8ca89b7675ae89e04&wsTime=1784887150$订阅源
 
 🎬电影频道,#genre#
 
