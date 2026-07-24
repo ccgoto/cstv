@@ -1,19 +1,7 @@
 🕘️更新时间,#genre#
-2026-07-25 04:43:05,https://live.chinacert.cftest5.cn/cnmg/live/631780421$订阅源
+2026-07-25 05:50:06,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=41183637ccfe8f92a4c0eb89dcb4a3fd&wsTime=1784937658$订阅源
 
 📺央视频道,#genre#
-CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/631780421$订阅源
-CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/631780421$订阅源
-CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683$订阅源
-CCTV-7,https://live.chinacert.cftest5.cn/cnmg/live/673168121$订阅源
-CCTV-8,https://live.chinacert.cftest5.cn/cnmg/live/624878356$订阅源
-CCTV-9,https://live.chinacert.cftest5.cn/cnmg/live/673168140$订阅源
-CCTV-11,https://live.chinacert.cftest5.cn/cnmg/live/667987558$订阅源
-CCTV-12,https://live.chinacert.cftest5.cn/cnmg/live/673168185$订阅源
-CCTV-13,https://live.chinacert.cftest5.cn/cnmg/live/608807423$订阅源
-CCTV-14,https://live.chinacert.cftest5.cn/cnmg/live/624878440$订阅源
-CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223$订阅源
-CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256$订阅源
 
 📡卫视频道,#genre#
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=41183637ccfe8f92a4c0eb89dcb4a3fd&wsTime=1784937658$订阅源
