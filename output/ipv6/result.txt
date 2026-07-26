@@ -1,16 +1,9 @@
 🕘️更新时间,#genre#
-2026-07-26 23:36:42,https://live.chinacert.cftest5.cn/cnmg/live/608807423$订阅源
+2026-07-27 00:41:38,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
 
 📺央视频道,#genre#
-CCTV-13,https://live.chinacert.cftest5.cn/cnmg/live/608807423$订阅源
-CCTV-13,https://live.chinacert.cftest5.cn/cnmg/live/608807423$订阅源
-CCTV-14,https://live.chinacert.cftest5.cn/cnmg/live/624878440$订阅源
-CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223$订阅源
-CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256$订阅源
 
 📡卫视频道,#genre#
-河北卫视,https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1785081075&k=0ff9a48c7e8b80940a4d56cb1f964541$订阅源
-河北卫视,https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1785081075&k=0ff9a48c7e8b80940a4d56cb1f964541$订阅源
 
 🎬电影频道,#genre#
 
