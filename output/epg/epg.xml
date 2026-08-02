@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260802164230 +0800">
+<tv date="20260802174753 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -41991,54 +41991,6 @@
 	<channel id="CHC高清电影">
 		<display-name lang="zh">CHC高清电影</display-name>
 	</channel>
-	<programme channel="CHC高清电影" start="20260802000000 +0800" stop="20260802014500 +0800">
-		<title lang="zh">影院</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260802014500 +0800" stop="20260802040000 +0800">
-		<title lang="zh">电影</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260802040000 +0800" stop="20260802050500 +0800">
-		<title lang="zh">电影</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260802050500 +0800" stop="20260802060000 +0800">
-		<title lang="zh">电影</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260802060000 +0800" stop="20260802072500 +0800">
-		<title lang="zh">影院</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260802072500 +0800" stop="20260802080000 +0800">
-		<title lang="zh">电影</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260802080000 +0800" stop="20260802085900 +0800">
-		<title lang="zh">电影</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260802085900 +0800" stop="20260802103700 +0800">
-		<title lang="zh">影院</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260802103700 +0800" stop="20260802123700 +0800">
-		<title lang="zh">电影</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260802123700 +0800" stop="20260802141900 +0800">
-		<title lang="zh">影院</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260802141900 +0800" stop="20260802161100 +0800">
-		<title lang="zh">电影</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260802161100 +0800" stop="20260802181600 +0800">
-		<title lang="zh">影院</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260802181600 +0800" stop="20260802201700 +0800">
-		<title lang="zh">电影</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260802201700 +0800" stop="20260802220000 +0800">
-		<title lang="zh">影院</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260802220000 +0800" stop="20260802235700 +0800">
-		<title lang="zh">电影</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260802235700 +0800" stop="20260803000000 +0800">
-		<title lang="zh">影院</title>
-	</programme>
 	<programme channel="CHC高清电影" start="20260803000000 +0800" stop="20260803000100 +0800">
 		<title lang="zh">悬崖之上</title>
 	</programme>
@@ -42086,5 +42038,50 @@
 	</programme>
 	<programme channel="CHC高清电影" start="20260803233700 +0800" stop="20260804000000 +0800">
 		<title lang="zh">新同学</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260804000000 +0800" stop="20260804011200 +0800">
+		<title lang="zh">新同学</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260804011200 +0800" stop="20260804040000 +0800">
+		<title lang="zh">野人之雨林诀</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260804040000 +0800" stop="20260804043200 +0800">
+		<title lang="zh">野人之雨林诀</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260804043200 +0800" stop="20260804060000 +0800">
+		<title lang="zh">野人之雨林诀</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260804060000 +0800" stop="20260804080000 +0800">
+		<title lang="zh">长空之王</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260804080000 +0800" stop="20260804080800 +0800">
+		<title lang="zh">长空之王</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260804080800 +0800" stop="20260804103000 +0800">
+		<title lang="zh">智取威虎山2015版</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260804103000 +0800" stop="20260804123600 +0800">
+		<title lang="zh">囧妈</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260804123600 +0800" stop="20260804143900 +0800">
+		<title lang="zh">谜一样的双眼</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260804143900 +0800" stop="20260804163700 +0800">
+		<title lang="zh">海关战线</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260804163700 +0800" stop="20260804183800 +0800">
+		<title lang="zh">生无可恋的奥托</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260804183800 +0800" stop="20260804201900 +0800">
+		<title lang="zh">反贪风暴Ⅲ</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260804201900 +0800" stop="20260804220000 +0800">
+		<title lang="zh">维和防暴队</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260804220000 +0800" stop="20260804232400 +0800">
+		<title lang="zh">城市猎人</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260804232400 +0800" stop="20260805000000 +0800">
+		<title lang="zh">重返·狼群</title>
 	</programme>
 </tv>
