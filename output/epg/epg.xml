@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260803152252 +0800">
+<tv date="20260803173159 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -43146,54 +43146,6 @@
 	<channel id="CHC高清电影">
 		<display-name lang="zh">CHC高清电影</display-name>
 	</channel>
-	<programme channel="CHC高清电影" start="20260803000000 +0800" stop="20260803000100 +0800">
-		<title lang="zh">悬崖之上</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260803000100 +0800" stop="20260803014600 +0800">
-		<title lang="zh">信仰者</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260803014600 +0800" stop="20260803040000 +0800">
-		<title lang="zh">秘密访客</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260803040000 +0800" stop="20260803050600 +0800">
-		<title lang="zh">秘密访客</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260803050600 +0800" stop="20260803060000 +0800">
-		<title lang="zh">秘密访客</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260803060000 +0800" stop="20260803080000 +0800">
-		<title lang="zh">狼图腾</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260803080000 +0800" stop="20260803080200 +0800">
-		<title lang="zh">狼图腾</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260803080200 +0800" stop="20260803100600 +0800">
-		<title lang="zh">滚蛋吧!肿瘤君</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260803100600 +0800" stop="20260803120900 +0800">
-		<title lang="zh">你是我的春天</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260803120900 +0800" stop="20260803134700 +0800">
-		<title lang="zh">十八勇士</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260803134700 +0800" stop="20260803161200 +0800">
-		<title lang="zh">造梦之家</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260803161200 +0800" stop="20260803175400 +0800">
-		<title lang="zh">鳄鱼莱莱</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260803175400 +0800" stop="20260803195700 +0800">
-		<title lang="zh">飞驰人生Ⅱ</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260803195700 +0800" stop="20260803220000 +0800">
-		<title lang="zh">金刚川</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260803220000 +0800" stop="20260803233700 +0800">
-		<title lang="zh">铁血江桥</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260803233700 +0800" stop="20260804000000 +0800">
-		<title lang="zh">新同学</title>
-	</programme>
 	<programme channel="CHC高清电影" start="20260804000000 +0800" stop="20260804011200 +0800">
 		<title lang="zh">新同学</title>
 	</programme>
@@ -43238,5 +43190,53 @@
 	</programme>
 	<programme channel="CHC高清电影" start="20260804232400 +0800" stop="20260805000000 +0800">
 		<title lang="zh">重返·狼群</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260805000000 +0800" stop="20260805010100 +0800">
+		<title lang="zh">重返·狼群</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260805010100 +0800" stop="20260805040000 +0800">
+		<title lang="zh">我不是药神</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260805040000 +0800" stop="20260805042100 +0800">
+		<title lang="zh">我不是药神</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260805042100 +0800" stop="20260805060000 +0800">
+		<title lang="zh">我不是药神</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260805060000 +0800" stop="20260805072900 +0800">
+		<title lang="zh">我是检察官</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260805072900 +0800" stop="20260805080000 +0800">
+		<title lang="zh">露特寻龙记</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260805080000 +0800" stop="20260805084700 +0800">
+		<title lang="zh">露特寻龙记</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260805084700 +0800" stop="20260805101200 +0800">
+		<title lang="zh">小农夫</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260805101200 +0800" stop="20260805114800 +0800">
+		<title lang="zh">又是一年三月三</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260805114800 +0800" stop="20260805134500 +0800">
+		<title lang="zh">攀登者</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260805134500 +0800" stop="20260805151900 +0800">
+		<title lang="zh">十三猎杀</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260805151900 +0800" stop="20260805173800 +0800">
+		<title lang="zh">霍比特人-五军之战</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260805173800 +0800" stop="20260805193700 +0800">
+		<title lang="zh">戏台</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260805193700 +0800" stop="20260805220000 +0800">
+		<title lang="zh">捕风追影</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260805220000 +0800" stop="20260805233400 +0800">
+		<title lang="zh">冬去春来2013版</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260805233400 +0800" stop="20260806000000 +0800">
+		<title lang="zh">小马鞭</title>
 	</programme>
 </tv>
