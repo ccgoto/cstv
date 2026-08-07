@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260807161354 +0800">
+<tv date="20260807171340 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -45198,51 +45198,6 @@
 	<channel id="CHC高清电影">
 		<display-name lang="zh">CHC高清电影</display-name>
 	</channel>
-	<programme channel="CHC高清电影" start="20260807000000 +0800" stop="20260807020000 +0800">
-		<title lang="zh">小小的我</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260807020000 +0800" stop="20260807040000 +0800">
-		<title lang="zh">我是你舅舅</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260807040000 +0800" stop="20260807052000 +0800">
-		<title lang="zh">我是你舅舅</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260807052000 +0800" stop="20260807060000 +0800">
-		<title lang="zh">我是你舅舅</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260807060000 +0800" stop="20260807080000 +0800">
-		<title lang="zh">射雕英雄传-侠之大者</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260807080000 +0800" stop="20260807082800 +0800">
-		<title lang="zh">射雕英雄传-侠之大者</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260807082800 +0800" stop="20260807101000 +0800">
-		<title lang="zh">乘风破浪2017版</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260807101000 +0800" stop="20260807120000 +0800">
-		<title lang="zh">好梦一日游</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260807120000 +0800" stop="20260807140000 +0800">
-		<title lang="zh">触不可及</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260807140000 +0800" stop="20260807155700 +0800">
-		<title lang="zh">我不是药神</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260807155700 +0800" stop="20260807174800 +0800">
-		<title lang="zh">局外人</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260807174800 +0800" stop="20260807195300 +0800">
-		<title lang="zh">铁道英雄</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260807195300 +0800" stop="20260807220000 +0800">
-		<title lang="zh">守岛人</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260807220000 +0800" stop="20260807233900 +0800">
-		<title lang="zh">冰下的鱼</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260807233900 +0800" stop="20260808000000 +0800">
-		<title lang="zh">柳林的故事</title>
-	</programme>
 	<programme channel="CHC高清电影" start="20260808000000 +0800" stop="20260808012300 +0800">
 		<title lang="zh">柳林的故事</title>
 	</programme>
@@ -45287,5 +45242,59 @@
 	</programme>
 	<programme channel="CHC高清电影" start="20260808220000 +0800" stop="20260809000000 +0800">
 		<title lang="zh">霍比特人-史矛革之战</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809000000 +0800" stop="20260809003600 +0800">
+		<title lang="zh">霍比特人-史矛革之战</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809003600 +0800" stop="20260809020600 +0800">
+		<title lang="zh">逐梦弯道</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809020600 +0800" stop="20260809040000 +0800">
+		<title lang="zh">缝纫机乐队</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809040000 +0800" stop="20260809052600 +0800">
+		<title lang="zh">缝纫机乐队</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809052600 +0800" stop="20260809060000 +0800">
+		<title lang="zh">缝纫机乐队</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809060000 +0800" stop="20260809073000 +0800">
+		<title lang="zh">妈妈咪鸭</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809073000 +0800" stop="20260809080000 +0800">
+		<title lang="zh">挡马夺刀</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809080000 +0800" stop="20260809090700 +0800">
+		<title lang="zh">挡马夺刀</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809090700 +0800" stop="20260809110800 +0800">
+		<title lang="zh">生无可恋的奥托</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809110800 +0800" stop="20260809124800 +0800">
+		<title lang="zh">王伯祥</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809124800 +0800" stop="20260809141900 +0800">
+		<title lang="zh">秀水河子歼灭战</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809141900 +0800" stop="20260809155200 +0800">
+		<title lang="zh">捍战Ⅱ</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809155200 +0800" stop="20260809171500 +0800">
+		<title lang="zh">美国空姐</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809171500 +0800" stop="20260809184500 +0800">
+		<title lang="zh">英雄之战</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809184500 +0800" stop="20260809203100 +0800">
+		<title lang="zh">钢铁意志</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809203100 +0800" stop="20260809220000 +0800">
+		<title lang="zh">母夜叉与花魁女</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809220000 +0800" stop="20260809233100 +0800">
+		<title lang="zh">冰雪大围捕</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809233100 +0800" stop="20260810000000 +0800">
+		<title lang="zh">重返·狼群</title>
 	</programme>
 </tv>
