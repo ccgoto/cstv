@@ -1,11 +1,13 @@
 🕘️更新时间,#genre#
-2026-08-07 22:02:47,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-08-07 23:14:13,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📡卫视频道,#genre#
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=a055310aa4c9bf48c6e6b7302d8cdeeb&wsTime=1786129233$订阅源
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=a055310aa4c9bf48c6e6b7302d8cdeeb&wsTime=1786129233$订阅源
 
 🎬电影频道,#genre#
 
