@@ -1,14 +1,14 @@
 🕘️更新时间,#genre#
-2026-08-15 16:50:07,http://104.152.209.49:8181/720p/cctv2.m3u8$订阅源
+2026-08-15 17:16:16,http://104.152.209.49:8181/720p/cctv2.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-2,http://104.152.209.49:8181/720p/cctv2.m3u8$订阅源
 CCTV-2,http://104.152.209.49:8181/720p/cctv2.m3u8$订阅源
 CCTV-2,http://218.13.148.152:5140/IPTV-%E5%A4%AE%E8%A7%86/CCTV-2$订阅源
 CCTV-2,http://218.13.148.152:5140/IPTV-%E5%A4%AE%E8%A7%86/CCTV-2$订阅源
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1786831200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-3dd95117ec97742b668359f66e64068c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$订阅源
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1786831200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-3dd95117ec97742b668359f66e64068c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$订阅源
 CCTV-4,http://104.152.209.49:8181/720p/cctv4.m3u8$订阅源
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1786831200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-3dd95117ec97742b668359f66e64068c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$订阅源
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1786831200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-3dd95117ec97742b668359f66e64068c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$订阅源
 CCTV-5,http://104.152.209.49:8181/720p/cctv5p.m3u8$订阅源
 CCTV-6,http://104.152.209.49:8181/720p/cctv6.m3u8$订阅源
 CCTV-7,http://104.152.209.49:8181/720p/cctv7.m3u8$订阅源
@@ -27,34 +27,35 @@ CCTV-11,http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub$订阅�
 CCTV-11,http://bztv.tvbus.cc:8081/cdnlive/cctv11.m3u8$订阅源
 CCTV-11,http://104.152.209.49:8181/720p/cctv11.m3u8$订阅源
 CCTV-12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd$订阅源
-CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009$订阅源
 CCTV-12,http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8$订阅源
 CCTV-12,http://104.152.209.49:8181/720p/cctv12.m3u8$订阅源
 CCTV-13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd$订阅源
+CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009$订阅源
 CCTV-13,http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8$订阅源
 CCTV-14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd$订阅源
-CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009$订阅源
-CCTV-14,http://204.12.221.218:8181/3m1080p/cctv14.m3u8$订阅源
-CCTV-14,http://204.12.221.218:8181/3m1080p/cctv14.m3u8$订阅源
-CCTV-14,http://173.208.212.130:8181/720p/cctv14.m3u8$订阅源
-CCTV-14,http://173.208.212.130:8181/720p/cctv14.m3u8$订阅源
 CCTV-14,http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8$订阅源
+CCTV-14,http://173.208.212.130:8181/720p/cctv14.m3u8$订阅源
+CCTV-14,http://173.208.212.130:8181/720p/cctv14.m3u8$订阅源
+CCTV-14,http://204.12.221.218:8181/3m1080p/cctv14.m3u8$订阅源
+CCTV-14,http://204.12.221.218:8181/3m1080p/cctv14.m3u8$订阅源
 CCTV-14,http://104.152.209.49:8181/720p/cctv14.m3u8$订阅源
 CCTV-15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd$订阅源
 CCTV-15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub$订阅源
-CCTV-15,http://204.12.221.218:8181/3m1080p/cctv15.m3u8$订阅源
-CCTV-15,http://173.208.212.130:8181/720p/cctv15.m3u8$订阅源
 CCTV-15,http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8$订阅源
+CCTV-15,http://173.208.212.130:8181/720p/cctv15.m3u8$订阅源
+CCTV-15,http://204.12.221.218:8181/3m1080p/cctv15.m3u8$订阅源
 CCTV-15,http://104.152.209.49:8181/720p/cctv15.m3u8$订阅源
 CCTV-16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd$订阅源
-CCTV-16,http://204.12.221.218:8181/3m1080p/cctv16.m3u8$订阅源
-CCTV-16,http://173.208.212.130:8181/720p/cctv16.m3u8$订阅源
+CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009$订阅源
 CCTV-16,http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8$订阅源
+CCTV-16,http://173.208.212.130:8181/720p/cctv16.m3u8$订阅源
+CCTV-16,http://204.12.221.218:8181/3m1080p/cctv16.m3u8$订阅源
 CCTV-16,http://104.152.209.49:8181/720p/cctv16.m3u8$订阅源
 CCTV-17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd$订阅源
-CCTV-17,http://204.12.221.218:8181/3m1080p/cctv17.m3u8$订阅源
-CCTV-17,http://173.208.212.130:8181/720p/cctv17.m3u8$订阅源
+CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009$订阅源
 CCTV-17,http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8$订阅源
+CCTV-17,http://173.208.212.130:8181/720p/cctv17.m3u8$订阅源
+CCTV-17,http://204.12.221.218:8181/3m1080p/cctv17.m3u8$订阅源
 CCTV-17,http://104.152.209.49:8181/720p/cctv17.m3u8$订阅源
 
 📡卫视频道,#genre#
@@ -99,8 +100,8 @@ CCTV-17,http://104.152.209.49:8181/720p/cctv17.m3u8$订阅源
 安徽卫视,http://107.150.60.122/live/ahwshd.m3u8$订阅源
 安徽卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ahwshd$订阅源
 安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub$订阅源
-安徽卫视,http://204.12.221.218:8181/3m1080p/ahws.m3u8$订阅源
 安徽卫视,http://173.208.212.130:8181/720p/ahws.m3u8$订阅源
+安徽卫视,http://204.12.221.218:8181/3m1080p/ahws.m3u8$订阅源
 安徽卫视,http://104.152.209.49:8181/720p/ahws.m3u8$订阅源
 安徽卫视,http://198.204.228.26/live/ahwshd.m3u8$订阅源
 重庆卫视,http://192.151.150.154/live/cqwshd.m3u8$订阅源
@@ -157,8 +158,8 @@ CCTV-17,http://104.152.209.49:8181/720p/cctv17.m3u8$订阅源
 江苏卫视,http://107.150.60.122/live/jswshd.m3u8$订阅源
 江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd$订阅源
 江苏卫视,http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub$订阅源
-江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8$订阅源
 江苏卫视,http://173.208.212.130:8181/720p/jsws.m3u8$订阅源
+江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8$订阅源
 江苏卫视,http://104.152.209.49:8181/720p/jsws.m3u8$订阅源
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8$订阅源
 江西卫视,http://192.151.150.154/live/jxwshd.m3u8$订阅源
@@ -194,8 +195,8 @@ CCTV-17,http://104.152.209.49:8181/720p/cctv17.m3u8$订阅源
 山东卫视,http://107.150.60.122/live/sdwshd.m3u8$订阅源
 山东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd$订阅源
 山东卫视,http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub$订阅源
-山东卫视,http://204.12.221.218:8181/3m1080p/sdws.m3u8$订阅源
 山东卫视,http://173.208.212.130:8181/720p/sdws.m3u8$订阅源
+山东卫视,http://204.12.221.218:8181/3m1080p/sdws.m3u8$订阅源
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8$订阅源
 山西卫视,http://192.151.150.154/live/sxwshd.m3u8$订阅源
 山西卫视,http://107.150.60.122/live/sxwshd.m3u8$订阅源
@@ -219,8 +220,8 @@ CCTV-17,http://104.152.209.49:8181/720p/cctv17.m3u8$订阅源
 深圳卫视,http://107.150.60.122/live/szwshd.m3u8$订阅源
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd$订阅源
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub$订阅源
-深圳卫视,http://204.12.221.218:8181/3m1080p/szws.m3u8$订阅源
 深圳卫视,http://173.208.212.130:8181/720p/szws.m3u8$订阅源
+深圳卫视,http://204.12.221.218:8181/3m1080p/szws.m3u8$订阅源
 深圳卫视,http://104.152.209.49:8181/720p/szws.m3u8$订阅源
 深圳卫视,http://198.204.228.26/live/szwshd.m3u8$订阅源
 三沙卫视,http://192.151.150.154/live/ssws.m3u8$订阅源
