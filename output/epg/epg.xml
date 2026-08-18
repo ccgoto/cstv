@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260818170904 +0800">
+<tv date="20260818181240 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -44682,51 +44682,6 @@
 	<channel id="CHC高清电影">
 		<display-name lang="zh">CHC高清电影</display-name>
 	</channel>
-	<programme channel="CHC高清电影" start="20260818000000 +0800" stop="20260818011100 +0800">
-		<title lang="zh">熊猫计划</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260818011100 +0800" stop="20260818040000 +0800">
-		<title lang="zh">战火中的芭蕾</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260818040000 +0800" stop="20260818043100 +0800">
-		<title lang="zh">战火中的芭蕾</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260818043100 +0800" stop="20260818060000 +0800">
-		<title lang="zh">战火中的芭蕾</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260818060000 +0800" stop="20260818080000 +0800">
-		<title lang="zh">长征</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260818080000 +0800" stop="20260818091500 +0800">
-		<title lang="zh">长征</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260818091500 +0800" stop="20260818105700 +0800">
-		<title lang="zh">妈妈</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260818105700 +0800" stop="20260818123800 +0800">
-		<title lang="zh">回廊亭</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260818123800 +0800" stop="20260818143100 +0800">
-		<title lang="zh">死侍-我爱我家</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260818143100 +0800" stop="20260818161900 +0800">
-		<title lang="zh">铁弓传奇</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260818161900 +0800" stop="20260818180900 +0800">
-		<title lang="zh">七月与安生</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260818180900 +0800" stop="20260818200700 +0800">
-		<title lang="zh">我不是药神</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260818200700 +0800" stop="20260818220000 +0800">
-		<title lang="zh">龙之战</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260818220000 +0800" stop="20260818235500 +0800">
-		<title lang="zh">芭蕾芭蕾</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260818235500 +0800" stop="20260819000000 +0800">
-		<title lang="zh">杀戒</title>
-	</programme>
 	<programme channel="CHC高清电影" start="20260819000000 +0800" stop="20260819014300 +0800">
 		<title lang="zh">杀戒</title>
 	</programme>
@@ -44774,5 +44729,53 @@
 	</programme>
 	<programme channel="CHC高清电影" start="20260819233300 +0800" stop="20260820000000 +0800">
 		<title lang="zh">农民院士</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260820000000 +0800" stop="20260820010600 +0800">
+		<title lang="zh">农民院士</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260820010600 +0800" stop="20260820040000 +0800">
+		<title lang="zh">那一夜,我给你开过车</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260820040000 +0800" stop="20260820042600 +0800">
+		<title lang="zh">那一夜,我给你开过车</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260820042600 +0800" stop="20260820060000 +0800">
+		<title lang="zh">那一夜,我给你开过车</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260820060000 +0800" stop="20260820074800 +0800">
+		<title lang="zh">从你的全世界路过</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260820074800 +0800" stop="20260820080000 +0800">
+		<title lang="zh">警察故事2013</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260820080000 +0800" stop="20260820093900 +0800">
+		<title lang="zh">警察故事2013</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260820093900 +0800" stop="20260820110500 +0800">
+		<title lang="zh">黄河守墓人</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260820110500 +0800" stop="20260820124800 +0800">
+		<title lang="zh">密战</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260820124800 +0800" stop="20260820142200 +0800">
+		<title lang="zh">庖丁传奇之双狮攻略</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260820142200 +0800" stop="20260820163300 +0800">
+		<title lang="zh">小小的我</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260820163300 +0800" stop="20260820180400 +0800">
+		<title lang="zh">夺宝黑狐岭</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260820180400 +0800" stop="20260820200200 +0800">
+		<title lang="zh">千顷澄碧的时代</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260820200200 +0800" stop="20260820220000 +0800">
+		<title lang="zh">海关战线</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260820220000 +0800" stop="20260820233300 +0800">
+		<title lang="zh">前目的地</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260820233300 +0800" stop="20260821000000 +0800">
+		<title lang="zh">射雕英雄传之降龙十八掌</title>
 	</programme>
 </tv>
