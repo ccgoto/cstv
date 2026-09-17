@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260917121451 +0800">
+<tv date="20260917170921 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -43935,54 +43935,6 @@
 	<channel id="CHC高清电影">
 		<display-name lang="zh">CHC高清电影</display-name>
 	</channel>
-	<programme channel="CHC高清电影" start="20260917000000 +0800" stop="20260917012000 +0800">
-		<title lang="zh">嫌疑人x的献身</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260917012000 +0800" stop="20260917040000 +0800">
-		<title lang="zh">生活本该如此</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260917040000 +0800" stop="20260917044000 +0800">
-		<title lang="zh">生活本该如此</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260917044000 +0800" stop="20260917060000 +0800">
-		<title lang="zh">生活本该如此</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260917060000 +0800" stop="20260917073500 +0800">
-		<title lang="zh">旋风女队</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260917073500 +0800" stop="20260917080000 +0800">
-		<title lang="zh">闻香识女人</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260917080000 +0800" stop="20260917100400 +0800">
-		<title lang="zh">闻香识女人</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260917100400 +0800" stop="20260917114500 +0800">
-		<title lang="zh">维和防暴队</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260917114500 +0800" stop="20260917131800 +0800">
-		<title lang="zh">戴帽绅士</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260917131800 +0800" stop="20260917144900 +0800">
-		<title lang="zh">黄飞鸿之王者无敌</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260917144900 +0800" stop="20260917162800 +0800">
-		<title lang="zh">家养精灵</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260917162800 +0800" stop="20260917182900 +0800">
-		<title lang="zh">大路朝天2019版</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260917182900 +0800" stop="20260917201400 +0800">
-		<title lang="zh">一百零八</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260917201400 +0800" stop="20260917220000 +0800">
-		<title lang="zh">柳林的故事</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260917220000 +0800" stop="20260917233300 +0800">
-		<title lang="zh">大洪流</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260917233300 +0800" stop="20260918000000 +0800">
-		<title lang="zh">铁弓传奇</title>
-	</programme>
 	<programme channel="CHC高清电影" start="20260918000000 +0800" stop="20260918012100 +0800">
 		<title lang="zh">铁弓传奇</title>
 	</programme>
@@ -44030,5 +43982,50 @@
 	</programme>
 	<programme channel="CHC高清电影" start="20260918233200 +0800" stop="20260919000000 +0800">
 		<title lang="zh">三城记</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260919000000 +0800" stop="20260919014300 +0800">
+		<title lang="zh">三城记</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260919014300 +0800" stop="20260919040000 +0800">
+		<title lang="zh">好梦一日游</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260919040000 +0800" stop="20260919050300 +0800">
+		<title lang="zh">好梦一日游</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260919050300 +0800" stop="20260919060000 +0800">
+		<title lang="zh">好梦一日游</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260919060000 +0800" stop="20260919073600 +0800">
+		<title lang="zh">万万没想到</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260919073600 +0800" stop="20260919080000 +0800">
+		<title lang="zh">热干面的味道</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260919080000 +0800" stop="20260919091000 +0800">
+		<title lang="zh">热干面的味道</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260919091000 +0800" stop="20260919103400 +0800">
+		<title lang="zh">浴血卫士</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260919103400 +0800" stop="20260919120100 +0800">
+		<title lang="zh">亚当斯一家Ⅱ</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260919120100 +0800" stop="20260919140500 +0800">
+		<title lang="zh">黑日危机</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260919140500 +0800" stop="20260919164100 +0800">
+		<title lang="zh">007-无暇赴死</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260919164100 +0800" stop="20260919180400 +0800">
+		<title lang="zh">0.5的爱情</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260919180400 +0800" stop="20260919203100 +0800">
+		<title lang="zh">射雕英雄传-侠之大者</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260919203100 +0800" stop="20260919220000 +0800">
+		<title lang="zh">最后一夜</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260919220000 +0800" stop="20260920000000 +0800">
+		<title lang="zh">银河护卫队Ⅲ</title>
 	</programme>
 </tv>
