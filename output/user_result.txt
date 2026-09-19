@@ -1,24 +1,30 @@
 🕘️更新时间,#genre#
-2026-09-19 07:24:30,http://118.122.144.115:8888/newlive/live/hls/1/live.m3u8$订阅源
+2026-09-19 09:43:13,http://173.208.234.146/live/cctv2.m3u8$订阅源
 
 📺央视频道,#genre#
-CCTV-1,http://118.122.144.115:8888/newlive/live/hls/1/live.m3u8$订阅源
-CCTV-1,http://118.122.144.115:8888/newlive/live/hls/1/live.m3u8$订阅源
 CCTV-2,http://173.208.234.146/live/cctv2.m3u8$订阅源
 CCTV-2,http://173.208.234.146/live/cctv2.m3u8$订阅源
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1789833600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-3f186c606a9432500979f4ac9d528aa7&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$订阅源
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1789833600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-3f186c606a9432500979f4ac9d528aa7&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$订阅源
 CCTV-5,http://173.208.234.146/live/cctv5p.m3u8$订阅源
+CCTV-8,http://118.122.144.115:8888/newlive/live/hls/9/live.m3u8$订阅源
 CCTV-8,http://118.122.144.115:8888/newlive/live/hls/9/live.m3u8$订阅源
 CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009$订阅源
 CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009$订阅源
 CCTV-10,https://hwapi.yntv.net/62hdvf/utrat7.m3u8$订阅源
 CCTV-10,https://hwapi.yntv.net/62hdvf/utrat7.m3u8$订阅源
+CCTV-11,http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub$订阅源
+CCTV-12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub$订阅源
 CCTV-13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd$订阅源
 CCTV-13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd$订阅源
+CCTV-13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub$订阅源
 CCTV-14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd$订阅源
+CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009$订阅源
 CCTV-15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd$订阅源
+CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009$订阅源
+CCTV-16,http://173.208.234.146/live/cctv16.m3u8$订阅源
 CCTV-16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd$订阅源
 CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub$订阅源
-CCTV-16,http://173.208.234.146/live/cctv16.m3u8$订阅源
 CCTV-17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd$订阅源
 CCTV-17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub$订阅源
 
@@ -196,10 +202,10 @@ CHC动作电影,http://192.151.150.154/live/chcdz.m3u8$订阅源
 CHC动作电影,http://198.204.228.26/live/chcdz.m3u8$订阅源
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub$订阅源
 CHC动作电影,http://107.150.60.122/live/chcdz.m3u8$订阅源
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8$订阅源
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8$订阅源
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil$订阅源
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil$订阅源
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil$订阅源
