@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260926143729 +0800">
+<tv date="20260926180628 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -43545,54 +43545,6 @@
 	<channel id="CHC高清电影">
 		<display-name lang="zh">CHC高清电影</display-name>
 	</channel>
-	<programme channel="CHC高清电影" start="20260926000000 +0800" stop="20260926000500 +0800">
-		<title lang="zh">龙马精神2023版</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260926000500 +0800" stop="20260926021700 +0800">
-		<title lang="zh">诺亚方舟-创世之旅</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260926021700 +0800" stop="20260926040000 +0800">
-		<title lang="zh">所有梦想都开花</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260926040000 +0800" stop="20260926053700 +0800">
-		<title lang="zh">所有梦想都开花</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260926053700 +0800" stop="20260926060000 +0800">
-		<title lang="zh">所有梦想都开花</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260926060000 +0800" stop="20260926075200 +0800">
-		<title lang="zh">局外人</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260926075200 +0800" stop="20260926080000 +0800">
-		<title lang="zh">七月与安生</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260926080000 +0800" stop="20260926094200 +0800">
-		<title lang="zh">七月与安生</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260926094200 +0800" stop="20260926112400 +0800">
-		<title lang="zh">好事多磨</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260926112400 +0800" stop="20260926131300 +0800">
-		<title lang="zh">今天世界交给我</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260926131300 +0800" stop="20260926150900 +0800">
-		<title lang="zh">天使陷落</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260926150900 +0800" stop="20260926164900 +0800">
-		<title lang="zh">熊猫计划</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260926164900 +0800" stop="20260926181800 +0800">
-		<title lang="zh">红尖尖</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260926181800 +0800" stop="20260926195200 +0800">
-		<title lang="zh">九妹</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260926195200 +0800" stop="20260926220000 +0800">
-		<title lang="zh">你好,李焕英</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260926220000 +0800" stop="20260927000000 +0800">
-		<title lang="zh">黑豹-瓦坎达万岁</title>
-	</programme>
 	<programme channel="CHC高清电影" start="20260927000000 +0800" stop="20260927003000 +0800">
 		<title lang="zh">黑豹-瓦坎达万岁</title>
 	</programme>
@@ -43640,5 +43592,59 @@
 	</programme>
 	<programme channel="CHC高清电影" start="20260927220000 +0800" stop="20260928000000 +0800">
 		<title lang="zh">唐人街探案Ⅲ</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260928000000 +0800" stop="20260928001700 +0800">
+		<title lang="zh">唐人街探案Ⅲ</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260928001700 +0800" stop="20260928014000 +0800">
+		<title lang="zh">孪生歌手</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260928014000 +0800" stop="20260928040000 +0800">
+		<title lang="zh">广东十虎铁桥三之王者归来</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260928040000 +0800" stop="20260928050000 +0800">
+		<title lang="zh">广东十虎铁桥三之王者归来</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260928050000 +0800" stop="20260928060000 +0800">
+		<title lang="zh">广东十虎铁桥三之王者归来</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260928060000 +0800" stop="20260928075800 +0800">
+		<title lang="zh">海关战线</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260928075800 +0800" stop="20260928080000 +0800">
+		<title lang="zh">洛阳水席</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260928080000 +0800" stop="20260928092900 +0800">
+		<title lang="zh">洛阳水席</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260928092900 +0800" stop="20260928110400 +0800">
+		<title lang="zh">寻亲记</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260928110400 +0800" stop="20260928123200 +0800">
+		<title lang="zh">松江往事</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260928123200 +0800" stop="20260928135800 +0800">
+		<title lang="zh">小农夫</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260928135800 +0800" stop="20260928153400 +0800">
+		<title lang="zh">新同学</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260928153400 +0800" stop="20260928170400 +0800">
+		<title lang="zh">不是闹着玩的之欢乐喜剧村</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260928170400 +0800" stop="20260928183800 +0800">
+		<title lang="zh">十三猎杀</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260928183800 +0800" stop="20260928202700 +0800">
+		<title lang="zh">从你的全世界路过</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260928202700 +0800" stop="20260928220000 +0800">
+		<title lang="zh">蔡李佛拳</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260928220000 +0800" stop="20260928233100 +0800">
+		<title lang="zh">人间至味</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260928233100 +0800" stop="20260929000000 +0800">
+		<title lang="zh">妈妈咪鸭</title>
 	</programme>
 </tv>
