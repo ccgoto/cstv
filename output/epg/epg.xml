@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261010193453 +0800">
+<tv date="20261010230000 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -5856,6 +5856,51 @@
 	<programme channel="CHC家庭影院" start="20261010220000 +0800" stop="20261010235900 +0800">
 		<title lang="zh">蜘蛛侠英雄远征</title>
 	</programme>
+	<programme channel="CHC家庭影院" start="20261011000000 +0800" stop="20261011013500 +0800">
+		<title lang="zh">谁是大英雄</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261011013500 +0800" stop="20261011030500 +0800">
+		<title lang="zh">流水落花</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261011030500 +0800" stop="20261011045500 +0800">
+		<title lang="zh">满城尽带黄金甲</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261011045500 +0800" stop="20261011070000 +0800">
+		<title lang="zh">没有一顿火锅解决不了的事</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261011070000 +0800" stop="20261011084000 +0800">
+		<title lang="zh">我要你好好的</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261011084000 +0800" stop="20261011103000 +0800">
+		<title lang="zh">八月</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261011103000 +0800" stop="20261011121500 +0800">
+		<title lang="zh">军情五处利益之争</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261011121500 +0800" stop="20261011141500 +0800">
+		<title lang="zh">得闲谨制</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261011141500 +0800" stop="20261011154000 +0800">
+		<title lang="zh">永远的朋友爱丽丝米兰达</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261011154000 +0800" stop="20261011171000 +0800">
+		<title lang="zh">贝拉的奇幻花园</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261011171000 +0800" stop="20261011184500 +0800">
+		<title lang="zh">南北妈打</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261011184500 +0800" stop="20261011202000 +0800">
+		<title lang="zh">射雕英雄传之降龙十八掌</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261011202000 +0800" stop="20261011220000 +0800">
+		<title lang="zh">东北警察故事3</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261011220000 +0800" stop="20261011233500 +0800">
+		<title lang="zh">爸妈不在家</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261011233500 +0800" stop="20261011235900 +0800">
+		<title lang="zh">浪浪人生</title>
+	</programme>
 	<channel id="海南卫视">
 		<display-name lang="zh">海南卫视</display-name>
 	</channel>
@@ -6270,6 +6315,9 @@
 	<programme channel="海南卫视" start="20261011010000 +0800" stop="20261011023000 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
+	<programme channel="海南卫视" start="20261011010000 +0800" stop="20261011023000 +0800">
+		<title lang="zh">凌晨剧场</title>
+	</programme>
 	<programme channel="海南卫视" start="20261011023000 +0800" stop="20261011032000 +0800">
 		<title lang="zh">纪录中国</title>
 	</programme>
@@ -6298,9 +6346,6 @@
 		<title lang="zh">阳光剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20261011120100 +0800" stop="20261011130100 +0800">
-		<title lang="zh">2026海南高尔夫球公开赛</title>
-	</programme>
-	<programme channel="海南卫视" start="20261011130100 +0800" stop="20261011140100 +0800">
 		<title lang="zh">2026海南高尔夫球公开赛</title>
 	</programme>
 	<programme channel="海南卫视" start="20261011130100 +0800" stop="20261011140100 +0800">
@@ -6354,6 +6399,9 @@
 	<programme channel="海南卫视" start="20261012010000 +0800" stop="20261012023500 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
+	<programme channel="海南卫视" start="20261012010000 +0800" stop="20261012023500 +0800">
+		<title lang="zh">凌晨剧场</title>
+	</programme>
 	<programme channel="海南卫视" start="20261012023500 +0800" stop="20261012030500 +0800">
 		<title lang="zh">视界</title>
 	</programme>
@@ -6380,5 +6428,38 @@
 	</programme>
 	<programme channel="海南卫视" start="20261012073300 +0800" stop="20261012180800 +0800">
 		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012180800 +0800" stop="20261012182200 +0800">
+		<title lang="zh">特别节目</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012182200 +0800" stop="20261012183000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012183000 +0800" stop="20261012190000 +0800">
+		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012190000 +0800" stop="20261012193000 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012193000 +0800" stop="20261012195500 +0800">
+		<title lang="zh">潮起海之南</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012195500 +0800" stop="20261012202500 +0800">
+		<title lang="zh">视界</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012202500 +0800" stop="20261012211300 +0800">
+		<title lang="zh">特别节目</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012211300 +0800" stop="20261012215500 +0800">
+		<title lang="zh">金椰剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012215500 +0800" stop="20261012222500 +0800">
+		<title lang="zh">遵义三日</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012222500 +0800" stop="20261012232000 +0800">
+		<title lang="zh">星光剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012232000 +0800" stop="20261013001500 +0800">
+		<title lang="zh">卫视高尔夫</title>
 	</programme>
 </tv>
