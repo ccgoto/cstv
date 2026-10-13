@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261013014007 +0800">
+<tv date="20261013083313 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -13742,6 +13742,51 @@
 	</programme>
 	<programme channel="CHC家庭影院" start="20261012220000 +0800" stop="20261012235900 +0800">
 		<title lang="zh">哈利波特与阿兹卡班的囚徒</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261013000000 +0800" stop="20261013001000 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261013001000 +0800" stop="20261013014500 +0800">
+		<title lang="zh">我要你好好的</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261013014500 +0800" stop="20261013032000 +0800">
+		<title lang="zh">插翅难逃</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261013032000 +0800" stop="20261013053000 +0800">
+		<title lang="zh">雄狮少年2</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261013053000 +0800" stop="20261013072000 +0800">
+		<title lang="zh">我是谁</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261013072000 +0800" stop="20261013091000 +0800">
+		<title lang="zh">漫长的告白</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261013091000 +0800" stop="20261013105000 +0800">
+		<title lang="zh">天堂门票</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261013105000 +0800" stop="20261013123000 +0800">
+		<title lang="zh">熊猫计划之部落奇遇记</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261013123000 +0800" stop="20261013141000 +0800">
+		<title lang="zh">玩具总动员3</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261013141000 +0800" stop="20261013165500 +0800">
+		<title lang="zh">拯救大兵瑞恩</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261013165500 +0800" stop="20261013184000 +0800">
+		<title lang="zh">奇迹笨小孩</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261013184000 +0800" stop="20261013203000 +0800">
+		<title lang="zh">天边加油站</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261013203000 +0800" stop="20261013220000 +0800">
+		<title lang="zh">失而复得</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261013220000 +0800" stop="20261013234000 +0800">
+		<title lang="zh">赛马女孩</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261013234000 +0800" stop="20261013235900 +0800">
+		<title lang="zh">夏至</title>
 	</programme>
 	<channel id="三沙卫视">
 		<display-name lang="zh">三沙卫视</display-name>
