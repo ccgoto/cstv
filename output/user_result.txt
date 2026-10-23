@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-23 06:49:48,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1792749600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0a27ae6b86772b2ebaf8cb26f3fb7a70&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$订阅源
+2026-10-23 09:04:18,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1792749600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0a27ae6b86772b2ebaf8cb26f3fb7a70&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1792749600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0a27ae6b86772b2ebaf8cb26f3fb7a70&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$订阅源
@@ -65,9 +65,9 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub$订阅�
 河南卫视,http://192.151.150.154/live/hawshd.m3u8$订阅源
 河南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hawshd$订阅源
 河南卫视,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub$订阅源
+河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481$订阅源
+河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481$订阅源
 河南卫视,http://107.150.60.122/live/hawshd.m3u8$订阅源
-河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481$订阅源
-河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481$订阅源
 吉林卫视,http://192.151.150.154/live/jlwshd.m3u8$订阅源
 吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd$订阅源
 吉林卫视,http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub$订阅源
@@ -111,17 +111,17 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub$订阅�
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub$订阅源
 山西卫视,http://107.150.60.122/live/sxwshd.m3u8$订阅源
 山西卫视,http://198.204.228.26/live/sxwshd.m3u8$订阅源
-陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8$订阅源
-陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8$订阅源
 陕西卫视,http://192.151.150.154/live/snwshd.m3u8$订阅源
 陕西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=snwshd$订阅源
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub$订阅源
+陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8$订阅源
+陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8$订阅源
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8$订阅源
 陕西卫视,http://198.204.228.26/live/snwshd.m3u8$订阅源
-四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8$订阅源
 四川卫视,http://192.151.150.154/live/scwshd.m3u8$订阅源
 四川卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=scwshd$订阅源
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub$订阅源
+四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8$订阅源
 四川卫视,http://107.150.60.122/live/scwshd.m3u8$订阅源
 四川卫视,http://198.204.228.26/live/scwshd.m3u8$订阅源
 深圳卫视,http://192.151.150.154/live/szwshd.m3u8$订阅源
@@ -139,14 +139,14 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub$订阅�
 天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub$订阅源
 天津卫视,http://107.150.60.122/live/tjwshd.m3u8$订阅源
 天津卫视,http://198.204.228.26/live/tjwshd.m3u8$订阅源
-西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8$订阅源
 西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws$订阅源
+西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8$订阅源
 西藏卫视,http://107.150.60.122/live/xzws.m3u8$订阅源
 西藏卫视,http://198.204.228.26/live/xzws.m3u8$订阅源
-新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8$订阅源
 新疆卫视,http://192.151.150.154/live/xjws.m3u8$订阅源
 新疆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjws$订阅源
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub$订阅源
+新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8$订阅源
 新疆卫视,http://107.150.60.122/live/xjws.m3u8$订阅源
 新疆卫视,http://198.204.228.26/live/xjws.m3u8$订阅源
 云南卫视,http://192.151.150.154/live/ynwshd.m3u8$订阅源
