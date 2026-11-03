@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261103000533 +0800">
+<tv date="20261103070020 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -11057,6 +11057,48 @@
 	</programme>
 	<programme channel="CHC家庭影院" start="20261102233000 +0800" stop="20261102235900 +0800">
 		<title lang="zh">独行月球</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261103000000 +0800" stop="20261103013000 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261103013000 +0800" stop="20261103030000 +0800">
+		<title lang="zh">失而复得</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261103030000 +0800" stop="20261103043000 +0800">
+		<title lang="zh">绝命孤城</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261103043000 +0800" stop="20261103063000 +0800">
+		<title lang="zh">逆行人生</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261103063000 +0800" stop="20261103080500 +0800">
+		<title lang="zh">爸妈不在家</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261103080500 +0800" stop="20261103100500 +0800">
+		<title lang="zh">浪浪人生</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261103100500 +0800" stop="20261103115500 +0800">
+		<title lang="zh">暗夜雄狮</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261103115500 +0800" stop="20261103134000 +0800">
+		<title lang="zh">钢的琴</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261103134000 +0800" stop="20261103152000 +0800">
+		<title lang="zh">一年级生</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261103152000 +0800" stop="20261103171000 +0800">
+		<title lang="zh">满城尽带黄金甲</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261103171000 +0800" stop="20261103184500 +0800">
+		<title lang="zh">陆小凤传奇之绣花大盗</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261103184500 +0800" stop="20261103201500 +0800">
+		<title lang="zh">人间喜剧</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261103201500 +0800" stop="20261103220000 +0800">
+		<title lang="zh">曾经炽热的我们</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261103220000 +0800" stop="20261103235900 +0800">
+		<title lang="zh">星际迷航</title>
 	</programme>
 	<channel id="海南卫视">
 		<display-name lang="zh">海南卫视</display-name>
