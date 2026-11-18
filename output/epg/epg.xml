@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261118091655 +0800">
+<tv date="20261118181355 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -24351,16 +24351,16 @@
 	<programme channel="宁夏卫视" start="20261117233600 +0800" stop="20261118000000 +0800">
 		<title lang="zh">父母爱情(14)</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20261118000000 +0800" stop="20261118002300 +0800">
+	<programme channel="宁夏卫视" start="20261118000000 +0800" stop="20261118002400 +0800">
 		<title lang="zh">精彩呈现</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20261118002300 +0800" stop="20261118012300 +0800">
+	<programme channel="宁夏卫视" start="20261118002400 +0800" stop="20261118012400 +0800">
 		<title lang="zh">科技篇侯德榜</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20261118012300 +0800" stop="20261118020900 +0800">
+	<programme channel="宁夏卫视" start="20261118012400 +0800" stop="20261118020800 +0800">
 		<title lang="zh">破晓东方(4)</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20261118020900 +0800" stop="20261118025500 +0800">
+	<programme channel="宁夏卫视" start="20261118020800 +0800" stop="20261118025500 +0800">
 		<title lang="zh">破晓东方(5)</title>
 	</programme>
 	<programme channel="宁夏卫视" start="20261118025500 +0800" stop="20261118041700 +0800">
@@ -24381,19 +24381,16 @@
 	<programme channel="宁夏卫视" start="20261118070100 +0800" stop="20261118073000 +0800">
 		<title lang="zh">宁夏新闻联播</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20261118073000 +0800" stop="20261118075200 +0800">
+	<programme channel="宁夏卫视" start="20261118073000 +0800" stop="20261118081000 +0800">
 		<title lang="zh">新闻早点到</title>
-	</programme>
-	<programme channel="宁夏卫视" start="20261118075200 +0800" stop="20261118081000 +0800">
-		<title lang="zh">家园(3)</title>
 	</programme>
 	<programme channel="宁夏卫视" start="20261118081000 +0800" stop="20261118082200 +0800">
 		<title lang="zh">国宝时刻(1)</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20261118082200 +0800" stop="20261118090800 +0800">
+	<programme channel="宁夏卫视" start="20261118082200 +0800" stop="20261118090900 +0800">
 		<title lang="zh">梦中的那片海(28)</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20261118090800 +0800" stop="20261118095500 +0800">
+	<programme channel="宁夏卫视" start="20261118090900 +0800" stop="20261118095500 +0800">
 		<title lang="zh">梦中的那片海(29)</title>
 	</programme>
 	<programme channel="宁夏卫视" start="20261118095500 +0800" stop="20261118104100 +0800">
@@ -43887,51 +43884,6 @@
 	<channel id="CHC高清电影">
 		<display-name lang="zh">CHC高清电影</display-name>
 	</channel>
-	<programme channel="CHC高清电影" start="20261118000000 +0800" stop="20261118013600 +0800">
-		<title lang="zh">关于我妈的一切</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261118013600 +0800" stop="20261118040000 +0800">
-		<title lang="zh">兰辉</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261118040000 +0800" stop="20261118045600 +0800">
-		<title lang="zh">兰辉</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261118045600 +0800" stop="20261118060000 +0800">
-		<title lang="zh">兰辉</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261118060000 +0800" stop="20261118080000 +0800">
-		<title lang="zh">黑豹-瓦坎达万岁</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261118080000 +0800" stop="20261118083000 +0800">
-		<title lang="zh">黑豹-瓦坎达万岁</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261118083000 +0800" stop="20261118100200 +0800">
-		<title lang="zh">前目的地</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261118100200 +0800" stop="20261118113100 +0800">
-		<title lang="zh">绿皮车奏鸣曲</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261118113100 +0800" stop="20261118134000 +0800">
-		<title lang="zh">怒火·重案</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261118134000 +0800" stop="20261118161100 +0800">
-		<title lang="zh">长津湖之水门桥</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261118161100 +0800" stop="20261118180900 +0800">
-		<title lang="zh">刺猬索尼克Ⅱ</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261118180900 +0800" stop="20261118200300 +0800">
-		<title lang="zh">宫锁沉香</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261118200300 +0800" stop="20261118220000 +0800">
-		<title lang="zh">影</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261118220000 +0800" stop="20261118232900 +0800">
-		<title lang="zh">大王派我来巡山</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261118232900 +0800" stop="20261119000000 +0800">
-		<title lang="zh">特工妈咪</title>
-	</programme>
 	<programme channel="CHC高清电影" start="20261119000000 +0800" stop="20261119010700 +0800">
 		<title lang="zh">特工妈咪</title>
 	</programme>
@@ -43979,5 +43931,53 @@
 	</programme>
 	<programme channel="CHC高清电影" start="20261119235500 +0800" stop="20261120000000 +0800">
 		<title lang="zh">至暗时刻</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261120000000 +0800" stop="20261120015500 +0800">
+		<title lang="zh">至暗时刻</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261120015500 +0800" stop="20261120040000 +0800">
+		<title lang="zh">舞出我人生-街舞革命</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261120040000 +0800" stop="20261120051500 +0800">
+		<title lang="zh">舞出我人生-街舞革命</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261120051500 +0800" stop="20261120060000 +0800">
+		<title lang="zh">舞出我人生-街舞革命</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261120060000 +0800" stop="20261120073900 +0800">
+		<title lang="zh">送我上青云</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261120073900 +0800" stop="20261120080000 +0800">
+		<title lang="zh">美酒人生</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261120080000 +0800" stop="20261120091200 +0800">
+		<title lang="zh">美酒人生</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261120091200 +0800" stop="20261120104400 +0800">
+		<title lang="zh">夺宝黑狐岭</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261120104400 +0800" stop="20261120122900 +0800">
+		<title lang="zh">飞不起来的童年</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261120122900 +0800" stop="20261120141800 +0800">
+		<title lang="zh">哥斯拉大战金刚</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261120141800 +0800" stop="20261120163600 +0800">
+		<title lang="zh">志愿军-存亡之战</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261120163600 +0800" stop="20261120183300 +0800">
+		<title lang="zh">八角笼中</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261120183300 +0800" stop="20261120201800 +0800">
+		<title lang="zh">我心飞扬</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261120201800 +0800" stop="20261120220000 +0800">
+		<title lang="zh">紫日</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261120220000 +0800" stop="20261120233300 +0800">
+		<title lang="zh">渊子崖保卫战</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261120233300 +0800" stop="20261121000000 +0800">
+		<title lang="zh">照相师</title>
 	</programme>
 </tv>
