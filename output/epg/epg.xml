@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261122154423 +0800">
+<tv date="20261122212103 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -43695,54 +43695,6 @@
 	<channel id="CHC高清电影">
 		<display-name lang="zh">CHC高清电影</display-name>
 	</channel>
-	<programme channel="CHC高清电影" start="20261122000000 +0800" stop="20261122014400 +0800">
-		<title lang="zh">古董局中局</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261122014400 +0800" stop="20261122040000 +0800">
-		<title lang="zh">前任-再见前任</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261122040000 +0800" stop="20261122050400 +0800">
-		<title lang="zh">前任-再见前任</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261122050400 +0800" stop="20261122060000 +0800">
-		<title lang="zh">前任-再见前任</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261122060000 +0800" stop="20261122080000 +0800">
-		<title lang="zh">激战</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261122080000 +0800" stop="20261122080100 +0800">
-		<title lang="zh">激战</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261122080100 +0800" stop="20261122093400 +0800">
-		<title lang="zh">冰雪大围捕</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261122093400 +0800" stop="20261122111300 +0800">
-		<title lang="zh">打工老板</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261122111300 +0800" stop="20261122125900 +0800">
-		<title lang="zh">功夫瑜伽</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261122125900 +0800" stop="20261122151300 +0800">
-		<title lang="zh">一出好戏</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261122151300 +0800" stop="20261122172400 +0800">
-		<title lang="zh">孤注一掷</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261122172400 +0800" stop="20261122185200 +0800">
-		<title lang="zh">小镇发明家</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261122185200 +0800" stop="20261122203200 +0800">
-		<title lang="zh">Hold住爱</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261122203200 +0800" stop="20261122220000 +0800">
-		<title lang="zh">五郎八卦棍</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261122220000 +0800" stop="20261122234400 +0800">
-		<title lang="zh">超级的我</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20261122234400 +0800" stop="20261123000000 +0800">
-		<title lang="zh">功夫联盟</title>
-	</programme>
 	<programme channel="CHC高清电影" start="20261123000000 +0800" stop="20261123012600 +0800">
 		<title lang="zh">功夫联盟</title>
 	</programme>
@@ -43787,5 +43739,53 @@
 	</programme>
 	<programme channel="CHC高清电影" start="20261123233800 +0800" stop="20261124000000 +0800">
 		<title lang="zh">达芬奇大冒险-拯救蒙娜丽莎</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261124000000 +0800" stop="20261124010000 +0800">
+		<title lang="zh">达芬奇大冒险-拯救蒙娜丽莎</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261124010000 +0800" stop="20261124040000 +0800">
+		<title lang="zh">洛杉矶捣蛋计划</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261124040000 +0800" stop="20261124042000 +0800">
+		<title lang="zh">洛杉矶捣蛋计划</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261124042000 +0800" stop="20261124060000 +0800">
+		<title lang="zh">洛杉矶捣蛋计划</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261124060000 +0800" stop="20261124075500 +0800">
+		<title lang="zh">无罪谋杀-科林尼案</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261124075500 +0800" stop="20261124080000 +0800">
+		<title lang="zh">七月与安生</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261124080000 +0800" stop="20261124094500 +0800">
+		<title lang="zh">七月与安生</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261124094500 +0800" stop="20261124113500 +0800">
+		<title lang="zh">宾虚</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261124113500 +0800" stop="20261124133600 +0800">
+		<title lang="zh">狼图腾</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261124133600 +0800" stop="20261124150300 +0800">
+		<title lang="zh">人间至味</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261124150300 +0800" stop="20261124163700 +0800">
+		<title lang="zh">一位著名的病人</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261124163700 +0800" stop="20261124183100 +0800">
+		<title lang="zh">芭蕾芭蕾</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261124183100 +0800" stop="20261124203100 +0800">
+		<title lang="zh">毕正明的证明</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261124203100 +0800" stop="20261124220000 +0800">
+		<title lang="zh">松江往事</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261124220000 +0800" stop="20261124235000 +0800">
+		<title lang="zh">巴雷利的巴菲</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20261124235000 +0800" stop="20261125000000 +0800">
+		<title lang="zh">捍战Ⅱ</title>
 	</programme>
 </tv>
