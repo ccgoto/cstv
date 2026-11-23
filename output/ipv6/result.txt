@@ -1,11 +1,13 @@
 🕘️更新时间,#genre#
-2026-11-23 09:54:00,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
+2026-11-23 18:56:43,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
 甘肃卫视,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
 甘肃卫视,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f6b5500eac16ebd62678584fe0398825&wsTime=1795442622$订阅源
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f6b5500eac16ebd62678584fe0398825&wsTime=1795442622$订阅源
 
 🎬电影频道,#genre#
 
